@@ -37,3 +37,10 @@ nav span {
 nav span a {
     color: black;
 }
+
+.content,
+.column,
+.immage-content,
+.narrative{
+    border: 1px solid black;
+}
